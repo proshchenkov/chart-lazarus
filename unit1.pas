@@ -51,8 +51,8 @@ type
 
 const
   N = 1000;
-  MIN = -10;
-  MAX = 10;
+  MIN = -100;
+  MAX = 100;
 
 var
   Form1: TForm1;
